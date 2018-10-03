@@ -1,0 +1,27 @@
+body {
+    background: black;
+    color: white;
+}
+
+.gif {
+    margin: 5px;
+}
+
+.button-panel {
+    margin: 20px;
+}
+
+.animal-button {
+    margin: 5px;
+}
+
+.images {
+    float: left;
+    margin: 10px;
+}
+
+#search-form {
+    color: white;
+    float: right;
+    /* margin:15px; */
+}
